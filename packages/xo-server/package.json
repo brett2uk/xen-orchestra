@@ -129,7 +129,7 @@
     "uuid": "^9.0.0",
     "value-matcher": "^0.2.0",
     "vhd-lib": "^4.2.1",
-    "ws": "^8.2.3",
+    "ws": "^8.17.1",
     "xdg-basedir": "^5.1.0",
     "xen-api": "^1.2.6",
     "xo-acl-resolver": "^0.4.1",
